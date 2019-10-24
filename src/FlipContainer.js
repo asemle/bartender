@@ -48,25 +48,26 @@ export default class FlipContainer extends Component {
                         <h2>{this.state.data.strDrink}</h2>
                         </div>
                         <div className="flash back"> 
-                        <h4>{this.state.data.strGlass}</h4>
-                        <ul>
-                            <li 
-                                style={{ display: this.state.data.strIngredient1 ? 'list-item' : 'none' }}>{this.state.data.strIngredient1}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient2 ? 'list-item' : 'none' }}>{this.state.data.strIngredient2}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient3 ? 'list-item' : 'none' }}>{this.state.data.strIngredient3}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient4 ? 'list-item' : 'none' }}>{this.state.data.strIngredient4}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient5 ? 'list-item' : 'none' }}>{this.state.data.strIngredient5}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient6 ? 'list-item' : 'none' }}>{this.state.data.strIngredient6}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient7 ? 'list-item' : 'none' }}>{this.state.data.strIngredient7}</li>
-                            <li
-                                style={{ display: this.state.data.strIngredient8 ? 'list-item' : 'none' }}>{this.state.data.strIngredient8}</li>
-                        </ul>
+                            <h4>{this.state.data.strDrink}</h4>
+                            <ul>
+                                <li 
+                                    style={{ display: this.state.data.strIngredient1 ? 'list-item' : 'none' }}>{this.state.data.strIngredient1}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient2 ? 'list-item' : 'none' }}>{this.state.data.strIngredient2}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient3 ? 'list-item' : 'none' }}>{this.state.data.strIngredient3}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient4 ? 'list-item' : 'none' }}>{this.state.data.strIngredient4}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient5 ? 'list-item' : 'none' }}>{this.state.data.strIngredient5}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient6 ? 'list-item' : 'none' }}>{this.state.data.strIngredient6}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient7 ? 'list-item' : 'none' }}>{this.state.data.strIngredient7}</li>
+                                <li
+                                    style={{ display: this.state.data.strIngredient8 ? 'list-item' : 'none' }}>{this.state.data.strIngredient8}</li>
+                            </ul>
+                            <p>Glass: {this.state.data.strGlass}</p>
                             <p>{this.state.data.strInstructions}</p>
                         </div>
                 </div>
