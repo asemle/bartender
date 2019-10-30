@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a8691cd93b016d5fec2706888a6db88",
+    "revision": "46bb81fcf0821a790792ce3da2af879d",
     "url": "/bartender/index.html"
   },
   {
-    "revision": "393fe18655df3478e09c",
-    "url": "/bartender/static/css/main.57e4c603.chunk.css"
+    "revision": "d31582c435b5f56c13a5",
+    "url": "/bartender/static/css/main.188de593.chunk.css"
   },
   {
     "revision": "0b78557294a7a92917aa",
     "url": "/bartender/static/js/2.b8edbff9.chunk.js"
   },
   {
-    "revision": "393fe18655df3478e09c",
+    "revision": "d31582c435b5f56c13a5",
     "url": "/bartender/static/js/main.13650b8a.chunk.js"
   },
   {

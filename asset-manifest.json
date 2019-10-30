@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bartender/static/css/main.57e4c603.chunk.css",
+    "main.css": "/bartender/static/css/main.188de593.chunk.css",
     "main.js": "/bartender/static/js/main.13650b8a.chunk.js",
     "main.js.map": "/bartender/static/js/main.13650b8a.chunk.js.map",
     "runtime-main.js": "/bartender/static/js/runtime-main.c3aa3ad0.js",
@@ -8,16 +8,16 @@
     "static/js/2.b8edbff9.chunk.js": "/bartender/static/js/2.b8edbff9.chunk.js",
     "static/js/2.b8edbff9.chunk.js.map": "/bartender/static/js/2.b8edbff9.chunk.js.map",
     "index.html": "/bartender/index.html",
-    "precache-manifest.df2d56b71aeff799199ddce7d640a492.js": "/bartender/precache-manifest.df2d56b71aeff799199ddce7d640a492.js",
+    "precache-manifest.74a9ec29bee414bafb2304a365a46ab2.js": "/bartender/precache-manifest.74a9ec29bee414bafb2304a365a46ab2.js",
     "service-worker.js": "/bartender/service-worker.js",
-    "static/css/main.57e4c603.chunk.css.map": "/bartender/static/css/main.57e4c603.chunk.css.map",
+    "static/css/main.188de593.chunk.css.map": "/bartender/static/css/main.188de593.chunk.css.map",
     "static/media/logo.svg": "/bartender/static/media/logo.25bf045c.svg",
     "static/media/App.css": "/bartender/static/media/thumbs-up.667a44e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c3aa3ad0.js",
     "static/js/2.b8edbff9.chunk.js",
-    "static/css/main.57e4c603.chunk.css",
+    "static/css/main.188de593.chunk.css",
     "static/js/main.13650b8a.chunk.js"
   ]
 }
